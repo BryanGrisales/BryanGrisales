@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @BryanGrisales
+- 👋 Hi, I’m Bryan Grisales
 - 👀 I’m interested in machine learning, natural language processing, and software development.
-- 🌱 I’m currently learning more about AI applications in NMR data analysis and improving my skills in advanced Python and C++.
-- 💞️ I’m looking to collaborate on projects involving NLP, machine learning, and innovative software solutions.
+- 🌱 I’m currently learning more about AI applications in design based tools and improving my skills in typescript and C++.
 - 📫 How to reach me: [Email](bryangrisales01@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like cats 🐱
