@@ -1,4 +1,4 @@
-I’m Bryan Grisales
+I’m Bryan Grisales, I do CS @ Columbia
 
 Currently working on: [Mooodboard](https://www.mooodboard.ai)
 
