@@ -1,5 +1,6 @@
 I’m Bryan Grisales, I did CS @ Columbia
-Currentlt building [Mooodboard](https://www.mooodboard.ai) @ YC
+
+Currently building [Mooodboard](https://www.mooodboard.ai) @ YC
 
 [Instagram](https://www.instagram.com/bigm0ss/)
 
