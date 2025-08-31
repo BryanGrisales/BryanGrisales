@@ -2,7 +2,7 @@ I’m Bryan Grisales, I did CS @ Columbia
 
 Currently building [Mooodboard](https://www.mooodboard.ai)
 
-[Instagram](https://www.instagram.com/bigm0ss/)
+[Instagram](https://www.instagram.com/bryandgrisales/)
 
 Reach out to me: bryangrisales01@gmail.com || bryan@mooodboard.com
 
