@@ -1,6 +1,8 @@
 I’m Bryan Grisales, I did CS @ Columbia
 
-Currently building [Mooodboard](https://www.mooodboard.ai)
+Currently building [Semiotic](https://www.semiotic.so)
+
+[Mooodboard](https://www.mooodboard.ai)
 
 [Instagram](https://www.instagram.com/bryandgrisales/)
 
