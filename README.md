@@ -1,4 +1,4 @@
-I’m [Bryan Grisales](bryangrisales.com), I did CS @ Columbia
+I’m [Bryan Grisales](www.bryangrisales.com), I did CS @ Columbia
 
 Currently building [Semiotic](https://www.semiotic.com)
 
