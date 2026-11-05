@@ -1,4 +1,4 @@
-I’m Bryan Grisales, I did CS @ Columbia
+I’m [Bryan Grisales](bryangrisales.com), I did CS @ Columbia
 
 Currently building [Semiotic](https://www.semiotic.com)
 
@@ -6,6 +6,6 @@ Currently building [Semiotic](https://www.semiotic.com)
 
 [Instagram](https://www.instagram.com/bryandgrisales/)
 
-Reach out to me: bryangrisales01@gmail.com || bryan@mooodboard.com
+Reach out to me: bryangrisales01@gmail.com || bryan@semiotic.com
 
 I like cats 🐱
